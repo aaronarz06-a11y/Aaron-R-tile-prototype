@@ -1,0 +1,11 @@
+What went well 
+The grid system worked well, I got the player to be centered whenever they moved and the randomizer every two steps works well too.
+
+What didn't go well
+Getting the tiles to work wasn't very easy, the conveyer belt that moves the player at first did move the player but also made them fall, and now they ust move them to the top right tile. I also had problems with the hole spawning in the wrong areas. Also since the tile placement is randomized the game can end almost immediately. 
+
+What challenges did you face?
+One of the biggest challenges I faced was the player not being centered whenever they moved, in the early satges of development the player would get off centered, the problem continued with conveyor tiles. 
+
+What can you do differently next time?
+Next time I would focus less on getting the basic system working and get more unique gameplay in the project.
